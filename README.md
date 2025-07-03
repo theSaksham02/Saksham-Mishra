@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/2f71dde3-e9f3-4b54-a579-c1964dd510bf)
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEY7PGg63HOJw/profile-displaybackgroundimage-shrink_350_1400/B56ZV9fkzRGUAY-/0/1741567188059?e=1756944000&v=beta&t=GA_A64EmiqS0XMvpA9Mpw1pM7hd4jRJQyQ6zkocknOg
     "alt="Saksham Mishra Banner" width="100%" />
 </p>
 
