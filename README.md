@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/theSaksham02/Saksham-Mishra/blob/d9483d2a30fd8d952da63bb6e31791b45144c310/1741567188059.jpeg?raw=true
-    "alt="Saksham Mishra Banner" width="100%" />
+  <img src="https://github.com/theSaksham02/Saksham-Mishra/blob/d9483d2a30fd8d952da63bb6e31791b45144c310/1741567188059.jpeg?raw=true" alt="Saksham Mishra Banner" width="100%" />
 </p>
+
 
 # 👋 Hi there, I'm Saksham Mishra
 
