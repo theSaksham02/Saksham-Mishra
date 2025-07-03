@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="
+  <img src="[1741567188059.jpeg](https://github.com/theSaksham02/Saksham-Mishra/blob/d9483d2a30fd8d952da63bb6e31791b45144c310/1741567188059.jpeg)
     "alt="Saksham Mishra Banner" width="100%" />
 </p>
 
